@@ -1,6 +1,6 @@
 # 6th-grade math practice
 
-A free practice site for 6th-grade math: 200 questions from the CML sample papers and the i-Ready Grade 6 At-Home packet, with diagrams, three hints each, and a worked solution.
+Made this for my 6th grader to maintain her 95+ percentile i-Ready score. You can use it too for your kiddo to practice 6th-grade math - it's great over the summer before 6th grade starts or for the 1st semester. The site contains 200 questions from the CML sample papers and the i-Ready Grade 6 At-Home packet, with diagrams, three hints each, and a worked solution).
 
 **Live:** https://practice-bench.vercel.app
 
