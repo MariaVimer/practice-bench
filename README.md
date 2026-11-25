@@ -13,15 +13,6 @@ Made this for my 6th grader to maintain her 95+ percentile i-Ready score. You ca
 - **Progress** is saved in the browser, and a save link carries it to another device.
 - **Printable worksheets**, with a preview before printing.
 
-## Run it
-
-```bash
-npm install
-npm run dev      # http://localhost:3000
-npm run verify   # checks every answer, hint and diagram
-```
-
-Built with Next.js, React and TypeScript. Answers are checked with exact fraction arithmetic.
 
 ## Credits
 
